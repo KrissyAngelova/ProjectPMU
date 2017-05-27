@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\bb599a63a0482c72463bc3b1822a41ea7e1aebe3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3cb970bdc5af1a61b5008104c7ffb99a27048a3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cbb7a46c0d6f04519a7099cca2f3837b44c7796b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\8025304028619475ab913bdb9c0304250ab9a59c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05d85f355cbd4b75365cf3323b5b5064ae7a850a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\e72f9f47cf34d2fad7c2a9718881ac7de39bdd4d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e40b9a81989bd4a846018551c280f8c4d837bf2e">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_962956f14a1dea4db5cf5ddceb5a3951ec5a6f95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_aa5236d5844b3c99622de741434045ebe44720e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\07e1fd9e49086c341264fff2f6bf743d5b04f9ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_123167ef4e1c4b3ab480fc3dfceeb7e76a8f53da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\0a731ae00aef8dd0943de66956ec1053321d123d\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0efd31c324ff71a832f782ae7f03818190b67aa4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2aab850b9d044b01007be0d87e86861dbaa98d27">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_eeb85a0438095791f9c33f3c58c37ff7d30ac9bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\.android\build-cache\0a731ae00aef8dd0943de66956ec1053321d123d\output\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\AndroidLoginAndRegistration\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_3079c35e06159daa8d94d8de9522f5917ca42a6c\classes.dex" />
+    </item>
+
+</items>
